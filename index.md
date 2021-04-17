@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+### Hello Friend! 
 
-You can use the [editor on GitHub](https://github.com/MonzaSystems/monzasystems.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am experienced SysOps, Network & Linux Admin, Cloud Engineer for hire! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What can I do for you
 
-### Markdown
+#### I can be your SysOps
+-> Automation scripts in Ansible, Bash
+-> Imperva configuration
+-> Cloud services configuration (eg. Compute engine VMs, Cloud SQL, Cloud DNS, Firewall and more)
+-> Configure proxies, load balancers, web servers based on Nginx
+-> Configure DNS (GoDaddy, PowerDNS, CloudDNS - GCP)
+-> Set up databases 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### I can be your Security Specialist
+-> Linux servers hardening
+-> Infrastructure reconessaince
+-> Network, servers pentesting
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Technologies I worked with
 
-- Bulleted
-- List
+Area | Technologies
+------------ | -------------
+OS | Linux: Debian, Ubuntu, Kali
+Cloud | Google Cloud Platform, Digital Ocean
+CDN, WAF | Imperva (Incapsula)
+Automation | Ansible, Bash, Python
+CI/CD | Jenkins
+Web server | Nginx
+Version Control Systems | GIT (GitHub, Bitbucket)
+Databases | MySQL, PostreSQL, Redis
+Networking | routing, proxies, load balancing (HAProxy, Nginx), firewalls, DNS, VPN
+Cloud | Google Cloud Platform, Digital Ocean
+Security | nmap, hashcat, John the Ripper, Wireshark, ffuf, Amass, dirb to name a few
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Contact me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Get in touch with me](https://www.facebook.com/monzasystems)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonzaSystems/monzasystems.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
