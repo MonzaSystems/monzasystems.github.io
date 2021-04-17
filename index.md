@@ -1,28 +1,24 @@
 ### Welcome! 
 
-Happy to see you here!
-My name is Kate and I run Monza Systems company.
-I've been working as SysOps, Network & Linux Admin, Cloud Engineer for a couple of years.
+Happy to see you here!\
+My name is **Kate** and I run Monza Systems company.\
+I've been working as **SysOps, Network & Linux Admin, Cloud Engineer** for a couple of years.
+<br/>
+
+Specialization:\
+:white_check_mark: GCP cloud<br/>
+:white_check_mark: Ansible automation<br/>
+:white_check_mark: Nginx configuration<br/>
+:white_check_mark: Linux servers hardening<br/>
+:white_check_mark: OSINT, Infrastructure recon<br/> 
 
 
-Specialization:
-:white_check_mark: GCP cloud, 
-:white_check_mark: Ansible automation, 
-:white_check_mark: Nginx configuration, 
-:white_check_mark: Linux servers hardening, 
-:white_check_mark: OSINT, Infrastructure recon.
-
-
-Certificates:
-:detective: infrastructure reconnaissance master
-:unicorn:[Django Girls](https://djangogirls.org/) Mentor.
-
-
-
-### What can I do for you
-
-
-Hire me if you need:
+Certificates:\
+:detective:  Infrastructure reconnaissance master<br/>
+:unicorn:  [Django Girls](https://djangogirls.org/) Mentor
+<br/>
+<br/>
+### Hire me if you need
 
 #### SysOps
 * Automation scripts in Ansible, Bash
@@ -38,10 +34,8 @@ Hire me if you need:
 * Linux servers hardening
 * Infrastructure reconessaince
 * Network, servers pentesting
-
-
-
-
+<br/>
+  
 ### Technologies I worked with
 
 Area | Technologies
@@ -58,11 +52,9 @@ Networking | routing, proxies, load balancing (HAProxy, Nginx), firewalls, DNS, 
 Cloud | Google Cloud Platform, Digital Ocean
 Security | nmap, hashcat, John the Ripper, Wireshark, ffuf, Amass, dirb to name a few
 Programming | Python: Django
-
-
-
+<br/>
 
 ## Contact me :email:
 
 [Get in touch with me](https://www.facebook.com/monzasystems)
-
+<br/>
