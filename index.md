@@ -1,21 +1,45 @@
-### Hello Friend! 
+### Welcome! 
 
-I am experienced SysOps, Network & Linux Admin, Cloud Engineer for hire! 
+Happy to see you here!
+My name is Kate and I run Monza Systems company.
+I've been working as SysOps, Network & Linux Admin, Cloud Engineer for a couple of years.
+
+
+Specialization:
+:white_check_mark: GCP cloud, 
+:white_check_mark: Ansible automation, 
+:white_check_mark: Nginx configuration, 
+:white_check_mark: Linux servers hardening, 
+:white_check_mark: OSINT, Infrastructure recon.
+
+
+Certificates:
+:detective: infrastructure reconnaissance master
+:unicorn:[Django Girls](https://djangogirls.org/) Mentor.
+
+
 
 ### What can I do for you
 
-#### I can be your SysOps
--> Automation scripts in Ansible, Bash
--> Imperva configuration
--> Cloud services configuration (eg. Compute engine VMs, Cloud SQL, Cloud DNS, Firewall and more)
--> Configure proxies, load balancers, web servers based on Nginx
--> Configure DNS (GoDaddy, PowerDNS, CloudDNS - GCP)
--> Set up databases 
 
-#### I can be your Security Specialist
--> Linux servers hardening
--> Infrastructure reconessaince
--> Network, servers pentesting
+Hire me if you need:
+
+#### SysOps
+* Automation scripts in Ansible, Bash
+* Imperva configuration
+* Cloud services configuration (eg. Compute engine VMs, Cloud SQL, Cloud DNS, Firewall and more)
+* Configure proxies, load balancers, web servers based on Nginx
+* Configure DNS (GoDaddy, PowerDNS, CloudDNS - GCP)
+* Set up databases (MySQL, PostreSQL)
+* SSL/TLS certificates
+
+
+#### Security Specialist
+* Linux servers hardening
+* Infrastructure reconessaince
+* Network, servers pentesting
+
+
 
 
 ### Technologies I worked with
@@ -33,10 +57,12 @@ Databases | MySQL, PostreSQL, Redis
 Networking | routing, proxies, load balancing (HAProxy, Nginx), firewalls, DNS, VPN
 Cloud | Google Cloud Platform, Digital Ocean
 Security | nmap, hashcat, John the Ripper, Wireshark, ffuf, Amass, dirb to name a few
+Programming | Python: Django
 
 
 
-## Contact me
+
+## Contact me :email:
 
 [Get in touch with me](https://www.facebook.com/monzasystems)
 
