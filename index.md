@@ -52,7 +52,7 @@ Networking | routing, proxies, load balancing (HAProxy, Nginx), firewalls, DNS, 
 Cloud | Google Cloud Platform, Digital Ocean
 Security | nmap, hashcat, John the Ripper, Wireshark, ffuf, Amass, dirb to name a few
 Programming | Python: Django
-<br/>
+
 
 ## Contact me :email:
 
